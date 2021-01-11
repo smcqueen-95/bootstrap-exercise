@@ -8,9 +8,6 @@ debug.log
 # testing
 coverage
 
-#
-img/
-
 # production
 build
 
