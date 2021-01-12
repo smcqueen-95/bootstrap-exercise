@@ -5,7 +5,7 @@ This project was done in my Coursera Course
 Name: Samira Mc Queen
 [LinkedIn](https://www.linkedin.com/in/samira-mc-queen-1882431a7/)
 
-Free Spririted Caribbean Lady.
+Free Spririted Caribbean Woman.
 Software Developer and aspiring Game Developer
 
 ![Certification](./img/Certificate.png)
